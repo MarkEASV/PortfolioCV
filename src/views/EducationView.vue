@@ -21,7 +21,7 @@
                 <img class="w-full h-full object-contain" src="/src/assets/img/EASYDVEST.png" alt="EASV">
             </div>
             
-            <div class="h-full w-50 flex flex-col  justify-center items-center">
+            <div class="h-full w-50 flex flex-col justify-center items-center">
                 <p>2024-2026</p>
                 <p class="text-lg !font-bold">MMDE</p>
             </div>
