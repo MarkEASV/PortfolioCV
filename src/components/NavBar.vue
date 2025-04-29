@@ -1,7 +1,7 @@
 <template>
   <header class="nav grid grid-cols-12 items-center px-4 py-2">
     <nav class="col-span-10 col-start-1 flex items-center w-full">
-      <a href="/home" class="logoMobile">
+      <a href="/" class="logoMobile">
         <img class="logo" alt="marklogo" src="/src/assets/img/LOGO_1.png" />
       </a>
       <div class="router-links ml-4 flex space-x-4">

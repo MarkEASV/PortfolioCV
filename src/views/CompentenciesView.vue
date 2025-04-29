@@ -16,7 +16,7 @@
             </p>
         </div>
 
-        <div class="rotateBox !mt-40 col-start-8 col-span-4">
+        <div class="w-[380px] center !mt-40 col-start-8 col-span-4">
             <h4 class="text-1xl text-white !font-bold flex justify-center">Code</h4>
             <div class="carousel !mb-10">
                 <img class="left" :src="leftImage" />
@@ -24,7 +24,7 @@
                 <img class="right" :src="rightImage" />
             </div>
 
-            <h4 class="text-1xl text-white !font-bold flex justify-center">Design Tools</h4>
+            <h4 class="text-1xl w-[380px] center text-white !font-bold flex justify-center">Design Tools</h4>
             <div class="carousel2">
                 <img class="left" :src="leftImage2" />
                 <img class="center" :src="centerImage2" />
